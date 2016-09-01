@@ -1,7 +1,7 @@
 
 Description of the project
   
-  this is a jdbc app for allowing medical visitors of a medical company control their visits.its allows them to do the following :
+  This is a jdbc app for allowing medical visitors of a medical company control their visits.its allows them to do the following :
 
 1.	Let a user log in to the system, either as administrator or as medical visitor.
 
